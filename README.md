@@ -1,27 +1,13 @@
-## ☁️ A simple one page marketing site starter for SaaS companies and indie hackers.
+Tiros website
 
-[Live Demo: https://gatsby-starter-saas-marketing.netlify.com/ ](https://gatsby-starter-saas-marketing.netlify.com/)
+url: tiros.ai
+netlify hosting: https://tiros-website.netlify.app
 
 ### Getting started
 
-install Gatsby CLI - [more info](https://www.gatsbyjs.org/tutorial/part-zero/)
+Clone repository and install dependencies. 
 ```sh
-npm install -g gatsby-cli
-```
-or 
-```sh
-yarn global add gatsby-cli
-```
-
-
-install the starter locally:
-```sh
-gatsby new gatsby-starter-saas-marketing https://github.com/keegn/gatsby-starter-saas-marketing
-```
-
-install dependencies: 
-```sh
-yarn install
+npm install
 ```
 
 start the development server:
@@ -47,12 +33,6 @@ gatsby serve
 ### Styles
 
 This starter uses [styled-components](https://www.styled-components.com/). The theme file contains the base styles `src/styles/theme.js` and the global styles file contains basic element styles and a style reset `src/styles/GlobalStyles.js`.
-
-
-
-### Deploying to Netlify
-
-[Deployment Guide](http://gatsbyjs.org/docs/deploying-to-netlify)
 
 
 ### Collect emails with Netlify Forms
