@@ -1,6 +1,7 @@
-## ☁️ A simple one page marketing site starter for SaaS companies and indie hackers.
+Tiros website
 
-[Live Demo: https://gatsby-starter-saas-marketing.netlify.com/ ](https://gatsby-starter-saas-marketing.netlify.com/)
+url: tiros.ai
+netlify hosting: https://tiros-website.netlify.app
 
 ### Getting started
 
