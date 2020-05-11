@@ -8,10 +8,6 @@ const Footer = () => (
     <FooterColumnContainer>
       <FooterColumn>
         <span>Features</span>
-        <ul>
-          <li>Automation</li>
-          <li>Rewards</li>
-        </ul>
       </FooterColumn>
     </FooterColumnContainer>
     <BrandContainer>
