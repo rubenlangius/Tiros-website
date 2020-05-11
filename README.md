@@ -5,6 +5,11 @@ netlify hosting: https://tiros-website.netlify.app
 
 ### Getting started
 
+Install Gatsby cli globally.
+```sh
+npm install -g gatsby-cli
+```
+
 Clone repository and install dependencies. 
 ```sh
 npm install
