@@ -10,7 +10,7 @@ Install Gatsby cli globally.
 npm install -g gatsby-cli
 ```
 
-Clone repository and install dependencies. 
+Clone repository and install local dependencies. 
 ```sh
 npm install
 ```
