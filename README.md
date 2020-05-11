@@ -1,4 +1,4 @@
-Tiros website
+# Tiros website
 
 url: tiros.ai
 netlify hosting: https://tiros-website.netlify.app
